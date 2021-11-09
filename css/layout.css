@@ -129,6 +129,7 @@ textarea,
 select {
   font-style: normal;
   font-family: YakuHanJP_Noto, "Noto Sans JP", san-serif;
+  font-weight: 400;
 }
 body {
   color: #444444;

@@ -22,6 +22,7 @@ img {
 }
 
 .container {
+  position: relative;
   max-width: 1300px;
   margin-left: auto;
   margin-right: auto;
@@ -47,6 +48,20 @@ img {
     &.col_4 {
       flex: 0 0 33.3333%;
       max-width: 33.3333%;
+    }
+  }
+}
+
+.btn_link{
+  &:hover{
+    background-color: #dd7e22;
+    color: #fff;
+    
+    .cls-1,.cls-2{
+      stroke: #fff;
+    }
+    .cls-2{
+      fill: #fff;
     }
   }
 }
@@ -279,6 +294,127 @@ img {
       &.current_page {
         background-color: #000;
         color: #fff;
+      }
+    }
+  }
+}
+
+
+/*==================================
+	SECTION TEXT HEADER
+==================================*/
+.p_header{
+  text-align: center;
+  padding-bottom: 26px;
+  &--title{
+    @include Jost();
+    font-size: 60px;
+    letter-spacing: .1em;
+    margin-bottom: 9px;
+
+    @include sp{
+      font-size: 35px;
+      margin-bottom: 5px;
+    }
+  }
+  &--desc{
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: .2em;
+
+    @include sp{
+      font-size: 16px;
+    }
+  }
+}
+
+/*==================================
+  POST VIEW MORE
+==================================*/
+.post_viewmore{
+  position: absolute;
+  top: 0;
+  right: 50px;
+  width: 81.43px;
+  height: 81.43px;
+  border-radius: 50%;
+  background-color: #a6845e;
+  text-align: center;
+  transition: .3s ease-in-out;
+  overflow: hidden;
+  @include sp{
+    position: relative;
+    top: unset;
+    right: unset;
+    margin: 33px auto 0;
+  }
+  @include pc{
+    &:hover{
+      width: 95.35px;
+      height: 95.35px;
+      background-color: #8e693f;
+      top: -8px !important;
+      right: 44px !important;
+    }
+  }
+  a{
+    color: #fff;
+    @include Jost();
+    font-size: 13px;
+    line-height: 15.6px;
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+/*==================================
+  LIST BUTTON
+==================================*/
+.list_btn{
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid #c6c6c6;
+  li{
+    position: relative;
+    width: 50%;
+    text-align: center;
+    &:first-child{
+      border-right: 1px solid #c6c6c6;
+      @include sp{
+        border-right: none;
+        border-bottom: 1px solid #c6c6c6;
+      }
+    }
+    @include sp{
+      width: 100%;
+    }
+    a{
+      display: block;
+      width: 100%;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 32.4px;
+      letter-spacing: .08em;
+      padding: 27px 0 30px;
+      @include sp{
+        padding: 17px 0 18px;
+      }
+      svg{
+        width: 17px;
+        position: absolute;
+        top: 50%;
+        right: 25px;
+        transform: translate(0, -50%);
+        @include sp{
+          right: 14px;
+          width: 15px;
+        }
+        @include is-max(335px){
+          right: 5px;
+        }
       }
     }
   }
