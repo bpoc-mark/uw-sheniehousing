@@ -1210,6 +1210,7 @@ img[src$=".png"], img[src$=".jpg"] {
 #Top main .sect_2 .wrapper .container .post-wrap .post_row:not(:first-child) .post {
   display: flex;
   flex-wrap: wrap;
+  align-items: flex-start;
 }
 
 #Top main .sect_2 .wrapper .container .post-wrap .post_row:not(:first-child) .post figure {
@@ -1649,6 +1650,13 @@ img[src$=".png"], img[src$=".jpg"] {
   padding: 23px 0 30px 30px;
 }
 
+@media only screen and (max-width: 1210px) {
+  #Top main .sect_8 .wrapper .container .row .col:first-child p {
+    padding: 23px 0 30px 0;
+    letter-spacing: .15em;
+  }
+}
+
 #Top main .sect_8 .wrapper .container .row .col:first-child a {
   position: relative;
   display: flex;
@@ -1664,6 +1672,12 @@ img[src$=".png"], img[src$=".jpg"] {
   letter-spacing: .08em;
   text-align: center;
   color: #fff;
+}
+
+@media only screen and (max-width: 1210px) {
+  #Top main .sect_8 .wrapper .container .row .col:first-child a {
+    margin: 0 auto 0 auto;
+  }
 }
 
 #Top main .sect_8 .wrapper .container .row .col:first-child a:hover {
@@ -1735,6 +1749,11 @@ img[src$=".png"], img[src$=".jpg"] {
   letter-spacing: .08em;
   line-height: 44px;
   color: #fff;
+  transition: .3s ease-in-out;
+}
+
+#Top main .sect_8 .wrapper .container .row .col:last-child .btn_inquiry:hover {
+  background-color: #6a4c29;
 }
 
 #Top main .sect_8 .wrapper .container .row .col:last-child .btn_inquiry img {

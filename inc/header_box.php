@@ -23,7 +23,7 @@ $str = explode('/', $url); ?>
 				<a href=""><img src="/images/common/book_icon.svg" alt="">資料請求</a>
 			</li>
 			<li>
-				<a href=""><img src="/images/common/tel_icon.svg" alt="">053-460-0211</a>
+				<a href="tel:053-460-0211"><img src="/images/common/tel_icon.svg" alt="">053-460-0211</a>
 			</li>
 		</ul>
 		<ul class="bottom">
