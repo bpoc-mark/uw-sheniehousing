@@ -1365,9 +1365,9 @@ img[src$=".png"], img[src$=".jpg"] {
   border-bottom-left-radius: 150px;
 }
 
-@media only screen and (max-width: 1190px) {
+@media only screen and (max-width: 1200px) {
   #Top main .sect_4 .wrapper .container .row .col:last-child {
-    padding: 101px 50px 115px 165px;
+    padding: 101px 50px 115px 200px;
   }
 }
 
@@ -1407,6 +1407,7 @@ img[src$=".png"], img[src$=".jpg"] {
   background-color: #b89671;
   position: relative;
   padding-bottom: 40px;
+  margin-top: -1px;
 }
 
 #Top main .sect_5 .wrapper::after {
@@ -1448,9 +1449,9 @@ img[src$=".png"], img[src$=".jpg"] {
   border-top-right-radius: 150px;
 }
 
-@media only screen and (max-width: 1190px) {
+@media only screen and (max-width: 1200px) {
   #Top main .sect_5 .wrapper .container .row .col:first-child {
-    padding: 101px 200px 115px 120px;
+    padding: 101px 200px 115px 70px;
   }
 }
 

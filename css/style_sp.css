@@ -113,7 +113,7 @@ header .header_inner .h_right {
   width: 100%;
   height: 100%;
   position: fixed;
-  top: 57px;
+  top: 55px;
   left: 0;
   z-index: 999;
   background-color: #fff;
@@ -1278,7 +1278,7 @@ img[src$=".png"], img[src$=".jpg"] {
 #Top main .sect_3 .wrapper .container .post_wrap.row .col .post {
   display: flex;
   flex-wrap: wrap;
-  align-items: flex-start;
+  align-items: center;
 }
 
 #Top main .sect_3 .wrapper .container .post_wrap.row .col .post_img {
@@ -1294,7 +1294,7 @@ img[src$=".png"], img[src$=".jpg"] {
   color: #fff;
   font-weight: 700;
   line-height: 20px;
-  padding: 17px 0 10px;
+  padding: 0 0 10px;
 }
 
 #Top main .sect_3 .wrapper .container .post_wrap.row .col .post_info--date {

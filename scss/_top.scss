@@ -310,8 +310,8 @@
               width: 65.71%;
               padding: 101px 50px 115px 265px;
               border-bottom-left-radius: 150px;
-              @include is-max(1190px){
-                padding: 101px 50px 115px 165px;
+              @include is-max(1200px){
+                padding: 101px 50px 115px 200px;
               }
               
               .txt_cont{
@@ -351,6 +351,7 @@
     background-color: #b89671;
     position: relative;
     padding-bottom: 40px;
+    margin-top: -1px;
     .wrapper{
       &::after{
         content: "";
@@ -387,8 +388,8 @@
               width: 65.71%;
               padding: 101px 220px 115px 120px;
               border-top-right-radius: 150px;
-              @include is-max(1190px){
-                padding: 101px 200px 115px 120px;
+              @include is-max(1200px){
+                padding: 101px 200px 115px 70px;
               }
               
               .txt_cont{
