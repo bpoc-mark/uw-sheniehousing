@@ -4,9 +4,11 @@ $(function () {
     var t = $(this).scrollTop();
     if (t > 100) {
       $('#pageTop').addClass('active');
+      $('.float_btm_menu').addClass('active');
       $('header').addClass('scroll');
     } else {
       $('#pageTop').removeClass('active');
+      $('.float_btm_menu').removeClass('active');
       $('header').removeClass('scroll');
     };
   });
@@ -22,6 +24,11 @@ $(function () {
   if (w < 900) {
 
   }
+
+  $('#nav_menu').click(function () {
+    $('#nav_menu span').toggleClass('show');
+    $('header').toggleClass('active');
+  });
 
 });
 

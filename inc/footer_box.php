@@ -1,4 +1,4 @@
-<div class="footer_inner container pc">
+<div class="footer_inner container">
 
 	<div class="logo"><a href="/"><img src="/images/common/footer_logo.svg" alt="<?php echo SITE_NAME; ?>"></a></div>
 
@@ -13,7 +13,7 @@
 						<a href="">-  コンセプト</a>
 					</li>
 					<li>
-						<a href="">-  住まいを作る7つの要素</a>
+						<a href="">-  住まいを作る<br class="sp">7つの要素</a>
 					</li>
 					<li>
 						<a href="">-  経営理念</a>

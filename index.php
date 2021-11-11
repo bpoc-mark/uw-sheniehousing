@@ -57,12 +57,12 @@
 			<section class="sect_2">
 				<div class="wrapper">
 					<div class="container">
-						<h3>
+						<h3 class="c-anim-up">
 							<p>家を建てるまえに知ってほしい。</p>
 							新栄住宅の住まい教室&<br class="sp">家づくりイベント
 						</h3>
 						<ul class="post-wrap">
-							<li class="post_row">
+							<li class="post_row c-anim-up">
 								<a href="" class="post">
 									<figure>
 										<img src="/images/top/sect_2/img_1.jpg" alt="">
@@ -74,7 +74,7 @@
 									</div>
 								</a>
 							</li>
-							<li class="post_row">
+							<li class="post_row c-anim-up">
 								<a href="" class="post">
 									<figure>
 										<img src="/images/top/sect_2/img_2.jpg" alt="">
@@ -86,7 +86,7 @@
 									</div>
 								</a>
 							</li>
-							<li class="post_row">
+							<li class="post_row c-anim-up">
 								<a href="" class="post">
 									<figure>
 										<img src="/images/top/sect_2/img_3.jpg" alt="">
@@ -99,7 +99,7 @@
 								</a>
 							</li>
 						</ul>
-						<div class="post_viewmore">
+						<div class="post_viewmore c-anim-up">
 							<a href="" >VIEW<br>MORE</a>
 						</div>
 					</div>
@@ -108,12 +108,12 @@
 			<section class="sect_3">
 				<div class="wrapper">
 					<div class="container">
-						<div class="p_header">
+						<div class="p_header c-anim-up">
 							<h3 class="p_header--title white">INFORMATION</h3>
 							<p class="p_header--desc white">お知らせ</p>
 						</div>
 						<div class="post_wrap row">
-							<div class="col">
+							<div class="col c-anim-up">
 								<a href="">
 									<div class="post">
 										<figure class="post_img">
@@ -126,7 +126,7 @@
 									</div>
 								</a>
 							</div>
-							<div class="col">
+							<div class="col c-anim-up">
 								<a href="">
 									<div class="post">
 										<figure class="post_img">
@@ -139,7 +139,7 @@
 									</div>
 								</a>
 							</div>
-							<div class="col">
+							<div class="col c-anim-up">
 								<a href="">
 									<div class="post">
 										<figure class="post_img">
@@ -152,7 +152,7 @@
 									</div>
 								</a>
 							</div>
-							<div class="col">
+							<div class="col c-anim-up">
 								<a href="">
 									<div class="post">
 										<figure class="post_img">
@@ -166,7 +166,7 @@
 								</a>
 							</div>
 						</div>
-						<div class="post_viewmore">
+						<div class="post_viewmore c-anim-up">
 							<a href="" >VIEW<br>MORE</a>
 						</div>
 					</div>
@@ -177,13 +177,13 @@
 					<div class="container">
 						<div class="row">
 							<div class="col">
-								<img src="/images/top/sect_4/img_1.jpg" class="sp" alt="">
+								<img src="/images/top/sect_4/img_1.jpg" class="sp c-anim-up" alt="">
 							</div>
 							<div class="col">
 								<div class="txt_cont">
-									<h3>人生が豊かで<br>幸せであるために、<br>安心な暮らしを創造する。</h3>
-									<p>家づくりとは「家」を購入することではありません。豊かで幸せな暮らしを叶えてくれる住宅会社への「信頼」を購入することです。<br>新栄住宅な、半世紀に及ぶ豊富な経験で培った設計力と技術力、そして自然素材の力を駆使し、お客様からの「信頼」に期待以上の仕上がりでお応えします。</p>
-									<ul class="list_btn">
+									<h3 class="c-anim-up">人生が豊かで<br class="sp">幸せであるために、<br>安心な暮らしを創造する。</h3>
+									<p class="c-anim-up">家づくりとは「家」を購入することではありません。豊かで幸せな暮らしを叶えてくれる住宅会社への「信頼」を購入することです。<br>新栄住宅な、半世紀に及ぶ豊富な経験で培った設計力と技術力、そして自然素材の力を駆使し、お客様からの「信頼」に期待以上の仕上がりでお応えします。</p>
+									<ul class="list_btn c-anim-up">
 										<li>
 											<a href="" class="btn_link">新栄住宅の<br class="pc">コンセプト
 											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg>
@@ -198,7 +198,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="img_cont pc">
+						<div class="img_cont pc c-anim-up">
 							<img src="/images/top/sect_4/img_1.jpg" alt="">
 						</div>
 					</div>
@@ -210,10 +210,10 @@
 						<div class="row">
 							<div class="col">
 								<div class="txt_cont">
-									<h3>呼吸する<br>住まい</h3>
-									<h4>「断熱」と「調湿」を両立した快適で<br>長持ちする住まいづくり。</h4>
-									<p>あなたはどんな家に住みたいですか？デザイン、構造、間取り、収納など、どれも重要な要素ですが新栄住宅が最もこだわって提案しているのが「断熱」と「調湿」の両立を可能にした“呼吸する住まい”です。</p>
-									<ul class="list_btn">
+									<h3 class="c-anim-up">呼吸する<br>住まい</h3>
+									<h4 class="c-anim-up">「断熱」と「調湿」を両立した快適で<br>長持ちする住まいづくり。</h4>
+									<p class="c-anim-up">あなたはどんな家に住みたいですか？デザイン、構造、間取り、収納など、どれも重要な要素ですが新栄住宅が最もこだわって提案しているのが「断熱」と「調湿」の両立を可能にした“呼吸する住まい”です。</p>
+									<ul class="list_btn c-anim-up">
 										<li>
 											<a href="" class="btn_link">呼吸する住まいとは？
 												<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg>
@@ -223,13 +223,13 @@
 								</div>
 								<div class="img_cont sp">
 									<div class="row">
-										<div class="col">
+										<div class="col c-anim-up">
 											<img src="/images/top/sect_5/img_1.jpg" alt="">
 										</div>
-										<div class="col">
+										<div class="col c-anim-up">
 											<img src="/images/top/sect_5/img_2.jpg" alt="">
 										</div>
-										<div class="col">
+										<div class="col c-anim-up">
 											<img src="/images/top/sect_5/img_3.jpg" alt="">
 										</div>
 									</div>
@@ -239,13 +239,13 @@
 						</div>
 						<div class="img_cont pc">
 							<div class="row">
-								<div class="col">
+								<div class="col c-anim-up">
 									<img src="/images/top/sect_5/img_1.jpg" alt="">
 								</div>
-								<div class="col">
+								<div class="col c-anim-up">
 									<img src="/images/top/sect_5/img_2.jpg" alt="">
 								</div>
-								<div class="col">
+								<div class="col c-anim-up">
 									<img src="/images/top/sect_5/img_3.jpg" alt="">
 								</div>
 							</div>
@@ -255,7 +255,7 @@
 			</section>
 			<section class="sect_6">
 				<div class="wrapper">
-					<div class="container">
+					<div class="container c-anim-up">
 						<a href="">
 							<picture>
 								<!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->
@@ -270,12 +270,12 @@
 			<section class="sect_7">
 				<div class="wrapper">
 					<div class="container">
-					<div class="p_header">
+						<div class="p_header c-anim-up">
 							<h3 class="p_header--title teak">WORKS</h3>
 							<p class="p_header--desc">施工事例</p>
 						</div>
 						<div class="post_wrap row">
-							<div class="col">
+							<div class="col c-anim-up">
 								<a href="">
 									<div class="post">
 										<figure class="post_img">
@@ -288,7 +288,7 @@
 									</div>
 								</a>
 							</div>
-							<div class="col">
+							<div class="col c-anim-up">
 								<a href="">
 									<div class="post">
 										<figure class="post_img">
@@ -301,7 +301,7 @@
 									</div>
 								</a>
 							</div>
-							<div class="col">
+							<div class="col c-anim-up">
 								<a href="">
 									<div class="post">
 										<figure class="post_img">
@@ -315,45 +315,49 @@
 								</a>
 							</div>
 						</div>
-						<div class="post_viewmore">
+						<div class="post_viewmore c-anim-up">
 							<a href="" >VIEW<br>MORE</a>
 						</div>
-						<ul class="list_btn">
+						<ul class="list_btn c-anim-up">
 							<li>
 								<a href="" class="btn_link">ごあいさつ・会社概要
-								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg>
-							</a>
+									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg>
+								</a>
 							</li>
 							<li>
 								<a href="" class="btn_link">経営理念
-								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg>
-							</a>
+									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg>
+								</a>
 							</li>
 						</ul>
 					</div>
 				</div>
 			</section>
-			<section class="sect_8 pc">
+			<section class="sect_8">
 				<div class="wrapper">
+					<div class="container sp c-anim-up">
+						<img src="/images/top/sect_8/banner.jpg" alt="">
+					</div>
 					<div class="container">
 						<div class="row">
 							<div class="col">
-								<img src="/images/top/sect_8/img_1.png" alt="">
-								<p>新栄住宅の想いがギュッとつまった<br>カタログをご用意しております！</p>
-								<a href="">
+								<img src="/images/top/sect_8/img_1.png" class=" c-anim-up" alt="">
+								<p class="c-anim-up">新栄住宅の想いが<br class="sp">ギュッとつまった<br>カタログをご用意しております！</p>
+								<a href="" class="c-anim-up">
 									資料請求はこちら
 									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg>
 								</a>
 							</div>
 							<div class="col">
-								<h3>家づくりについて<br>何でもお気軽にご相談ください</h3>
-								<a href="tel:053-460-0211" class="tel"><img src="/images/common/tel_icon.svg" alt="">053-460-0211</a>
-								<a href="" class="btn_inquiry"><img src="/images/common/mail_icon_white.svg" alt="">お問い合わせ <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg></a>
-								<h4>新栄住宅株式会社</h4>
-								<p>［本社］ 〒432-8058 静岡県浜松市南区新橋町410-6<br>［事務所］ 〒432-8051 静岡県浜松市南区若林町22<br>［モデルハウス］ 〒435-0037 静岡県浜松市南区青屋町400</p>
+								<h3 class="c-anim-up">家づくりについて<br class="pc">何でも<br class="sp">お気軽にご相談ください</h3>
+								<a href="tel:053-460-0211" class="tel c-anim-up"><img src="/images/common/tel_icon.svg" alt="">053-460-0211</a>
+								<a href="" class="btn_inquiry c-anim-up"><img src="/images/common/mail_icon_white.svg" alt="">お問い合わせ <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg></a>
+								<h4 class="c-anim-up">新栄住宅株式会社</h4>
+								<p class="c-anim-up">［本社］<br class="sp"> 〒432-8058 静岡県浜松市南区新橋町410-6<br>［事務所］<br class="sp"> 〒432-8051 静岡県浜松市南区若林町22<br>［モデルハウス］<br class="sp"> 〒435-0037 静岡県浜松市南区青屋町400</p>
 							</div>
 						</div>
 					</div>
+					<img class="border_btm c-anim-up" src="/images/top/sect_8/border_img.svg" alt="">
 				</div>
 			</section>
 		</main>
