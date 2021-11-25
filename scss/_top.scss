@@ -125,7 +125,7 @@
 
   .sect_2{
     .wrapper{
-      padding-top: 120px;
+      padding-top: 100px;
       padding-bottom: 120px;
       .container{
         h3{
@@ -239,10 +239,11 @@
   .sect_3{
     .wrapper{
       background-color: #b89671;
-      padding-top: 120px;
+      padding-top: 112px;
       padding-bottom: 126px;
       .container{
         .p_header{
+          padding-bottom: 44px;
           .white{
             color: #fff;
           }
@@ -336,10 +337,12 @@
               width: 65.71%;
               padding: 101px 50px 115px 265px;
               border-bottom-left-radius: 150px;
-              @include is-max(1200px){
+              @include is-max(1250px){
                 padding: 101px 50px 115px 200px;
               }
-              
+              @include is-max(1030px){
+                padding: 101px 50px 115px 150px;
+              }
               .txt_cont{
                 max-width: 555px;
                 h3{
@@ -348,6 +351,9 @@
                   line-height: 50.4px;
                   text-align: center;
                   letter-spacing: .2em;
+                  @include is-max(1130px){
+                    font-size: 22px;
+                  }
                 }
                 p{
                   line-height: 38.4px;
@@ -415,7 +421,7 @@
               padding: 101px 220px 115px 120px;
               border-top-right-radius: 150px;
               @include is-max(1200px){
-                padding: 101px 200px 115px 70px;
+                padding: 101px 200px 115px 50px;
               }
               
               .txt_cont{
@@ -433,6 +439,9 @@
                   line-height: 43.2px;
                   text-align: left;
                   letter-spacing: .2em;
+                  @include is-max(1100px){
+                    font-size: 18px;
+                  }
                 }
                 p{
                   line-height: 38.4px;
@@ -522,24 +531,26 @@
             // }
             .img_1_hover{
               visibility: visible;
+              opacity: 1;
             }
             .img_1{
               opacity: 0;
             }
           }
           .img_1{
-            transition: .3s linear;
+            // transition: .1s;
             position: relative;
             z-index: 3;
             opacity: 1;
           }
           .img_1_hover{
-            transition: .3s linear;
+            // transition: .1s;
             position: absolute;
             top: 0;
             left: 0;
             z-index: 2;
             visibility: hidden;
+            opacity: 0;
           }
         }
         
@@ -648,6 +659,9 @@
             &:first-child{
               width: 48%;
               padding-right: 110px;
+              @include is-max(1010px){
+                padding-right: 70px;
+              }
               img{
 
               }
@@ -663,6 +677,9 @@
                   padding: 23px 0 30px 0;
                   letter-spacing: .15em;
                 }
+                @include is-max(1170px){
+                  font-size: 1.7vw;
+                }
               }
               a{
                 position: relative;
@@ -674,7 +691,7 @@
                 margin: 0 40px 0 auto;
                 background-color: #8e693f;
                 font-size: 20px;
-                font-weight: 700;
+                font-weight: 500;
                 line-height: 44px;
                 letter-spacing: .08em;
                 text-align: center;
@@ -707,6 +724,9 @@
               padding-left: 100px;
               background-color: #fff;
               border-top-left-radius: 150px;
+              @include is-max(1010px){
+                padding-left: 50px;
+              }
               h3{
                 font-size: 24px;
                 font-weight: 700;
@@ -714,6 +734,9 @@
                 letter-spacing: .2em;
                 text-align: center;
                 margin-bottom: 27px;
+                @include is-max(1070px){
+                  font-size: 2.1vw;
+                }
               }
               .tel{
                 img{
@@ -739,7 +762,7 @@
                 margin: 35px auto;
                 background-color: #dd7e22;
                 font-size: 20px;
-                font-weight: 700;
+                font-weight: 500;
                 letter-spacing: .08em;
                 line-height: 44px;
                 color: #fff;
@@ -773,6 +796,9 @@
               p{
                 text-align: center;
                 line-height: 32px;
+                @include is-max(1010px){
+                  font-size: 14px;
+                }
               }
             }
           }

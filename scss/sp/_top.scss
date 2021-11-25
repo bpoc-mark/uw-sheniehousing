@@ -221,7 +221,7 @@
               background-color: #fff;
               width: 93%;
               margin-left: auto;
-              padding: 36px 20px 70px 27.5px;
+              padding: 36px 25px 70px 32px;
               border-bottom-left-radius: 75px;
               
               .txt_cont{
@@ -238,7 +238,6 @@
                 p{
                   line-height: 28.8px;
                   text-align: justify;
-                  letter-spacing: .05em;
                   padding: 16px 3px 34px;
                 }
               }
@@ -276,7 +275,7 @@
             &:first-child{
               background-color: #fff;
               width: 93%;
-              padding: 285px 27.5px 55px 20px;
+              padding: 285px 27.5px 55px 25px;
               border-top-right-radius: 75px;
               order: 2;
               position: unset;
@@ -295,6 +294,9 @@
                   line-height: 30.5px;
                   text-align: left;
                   letter-spacing: .2em;
+                  @include is-max(400px){
+                    font-size: 4.1vw;
+                  }
                 }
                 p{
                   line-height: 28.8px;

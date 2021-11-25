@@ -194,7 +194,7 @@ header .header_inner .h_right .nav_wrap .top li:nth-child(2) a {
   width: 100%;
   position: relative;
   font-size: 19px;
-  font-weight: 700;
+  font-weight: 500;
   color: #fff;
   letter-spacing: .08em;
 }
@@ -229,7 +229,7 @@ header .header_inner .h_right .nav_wrap .top li:nth-child(1) a {
   width: 100%;
   position: relative;
   font-size: 19px;
-  font-weight: 700;
+  font-weight: 500;
   color: #fff;
   letter-spacing: .08em;
 }
@@ -432,7 +432,7 @@ header .float_btm_menu .row .col a {
   align-items: center;
   justify-content: center;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 500;
   color: #fff;
 }
 
@@ -445,7 +445,7 @@ header .float_btm_menu .row .col a img {
 ==================================*/
 footer {
   padding-top: 33px;
-  padding-bottom: 100px;
+  padding-bottom: 105px;
 }
 
 footer .footer_inner {
@@ -507,6 +507,12 @@ footer .footer_inner .f_nav a {
   font-weight: 500;
   font-size: 14px;
   position: relative;
+}
+
+@media only screen and (max-width: 365px) {
+  footer .footer_inner .f_nav a {
+    font-size: 12px;
+  }
 }
 
 footer .footer_inner .copy {
@@ -1325,7 +1331,7 @@ img[src$=".png"], img[src$=".jpg"] {
   background-color: #fff;
   width: 93%;
   margin-left: auto;
-  padding: 36px 20px 70px 27.5px;
+  padding: 36px 25px 70px 32px;
   border-bottom-left-radius: 75px;
 }
 
@@ -1346,7 +1352,6 @@ img[src$=".png"], img[src$=".jpg"] {
 #Top main .sect_4 .wrapper .container .row .col:last-child .txt_cont p {
   line-height: 28.8px;
   text-align: justify;
-  letter-spacing: .05em;
   padding: 16px 3px 34px;
 }
 
@@ -1382,7 +1387,7 @@ img[src$=".png"], img[src$=".jpg"] {
 #Top main .sect_5 .wrapper .container .row .col:first-child {
   background-color: #fff;
   width: 93%;
-  padding: 285px 27.5px 55px 20px;
+  padding: 285px 27.5px 55px 25px;
   border-top-right-radius: 75px;
   order: 2;
   position: unset;
@@ -1403,6 +1408,12 @@ img[src$=".png"], img[src$=".jpg"] {
   line-height: 30.5px;
   text-align: left;
   letter-spacing: .2em;
+}
+
+@media only screen and (max-width: 400px) {
+  #Top main .sect_5 .wrapper .container .row .col:first-child .txt_cont h4 {
+    font-size: 4.1vw;
+  }
 }
 
 #Top main .sect_5 .wrapper .container .row .col:first-child .txt_cont p {

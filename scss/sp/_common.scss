@@ -177,7 +177,7 @@ header {
                 width: 100%;
                 position: relative;
                 font-size: 19px;
-                font-weight: 700;
+                font-weight: 500;
                 color: #fff;
                 letter-spacing: .08em;
                 svg{
@@ -207,7 +207,7 @@ header {
                 width: 100%;
                 position: relative;
                 font-size: 19px;
-                font-weight: 700;
+                font-weight: 500;
                 color: #fff;
                 letter-spacing: .08em;
                 svg{
@@ -395,7 +395,7 @@ header {
           align-items: center;
           justify-content: center;
           font-size: 14px;
-          font-weight: 700;
+          font-weight: 500;
           color: #fff;
           img{
             width: 17px;
@@ -411,7 +411,7 @@ header {
 ==================================*/
 footer {
   padding-top: 33px;
-  padding-bottom: 100px;
+  padding-bottom: 105px;
   .footer_inner{
     display: flex;
     flex-wrap: wrap;
@@ -460,6 +460,9 @@ footer {
         font-weight: 500;
         font-size: 14px;
         position: relative;
+        @include is-max(365px){
+          font-size: 12px;
+        }
       }
     }
     .copy{

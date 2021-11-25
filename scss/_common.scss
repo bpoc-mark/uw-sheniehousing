@@ -312,6 +312,7 @@ footer {
     .logo{
       width: 143px;
       padding-left: 44px;
+      padding-top: 10px;
       @include is-max(1080px){
         padding-left: 0;
         width: 99px;
@@ -376,7 +377,7 @@ footer {
         }
       }
       a{
-        font-weight: 700;
+        font-weight: 500;
         font-size: 14px;
         position: relative;
         &:hover{
@@ -399,9 +400,10 @@ footer {
     }
     .copy{
       width: 100%;
+      margin-top: 10px;
       small{
         font-size: 12px;
-        font-weight: 700;
+        font-weight: 500;
       }
     }
   }
