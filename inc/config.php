@@ -1,6 +1,6 @@
 <?php include($_SERVER['DOCUMENT_ROOT'] . "/inc/common.php");
 
-// $val = $_COOKIE["switchScreen"];
+$val = $_COOKIE["switchScreen"];
 
 /*=====================================================
 
@@ -8,17 +8,17 @@
 
 =====================================================*/
 
-//サイトURL統一
-// if ($_SERVER['HTTPS'] == "on") {
-// 	$PROTOCOL = "https://";
-// } else {
-// 	$PROTOCOL = "http://";
-// }
-// define("CANONICAL", $PROTOCOL . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI']);
+// サイトURL統一
+if ($_SERVER['HTTPS'] == "on") {
+	$PROTOCOL = "https://";
+} else {
+	$PROTOCOL = "http://";
+}
+define("CANONICAL", $PROTOCOL . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI']);
 
 
 //サイト名
-define("SITE_NAME", "");
+define("SITE_NAME", "Shin-ei");
 
 //キーワード
 define("KEY_WORD", "");

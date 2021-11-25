@@ -1,6 +1,6 @@
 <div class="footer_inner container">
 
-	<div class="logo"><a href="/"><img src="/images/common/footer_logo.svg" alt="<?php echo SITE_NAME; ?>"></a></div>
+	<div class="logo"><a href="/"><img src="/images/common/footer_logo.svg" alt="<?php echo SITE_NAME; ?> | Shin-ei 新栄住宅"></a></div>
 
 	
 	<nav class="f_nav">

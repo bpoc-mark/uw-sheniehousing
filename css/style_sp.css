@@ -1132,7 +1132,7 @@ img[src$=".png"], img[src$=".jpg"] {
   transform: translate(0, -50%);
 }
 
-#Top main .sect_1 .wrapper .container h3 {
+#Top main .sect_1 .wrapper .container h2 {
   font-family: heisei-kaku-gothic-std, sans-serif;
   font-weight: 700;
   font-style: normal;
@@ -1480,23 +1480,6 @@ img[src$=".png"], img[src$=".jpg"] {
   display: block;
 }
 
-#Top main .sect_6 .wrapper .container a::before {
-  content: "";
-  display: block;
-  width: 100%;
-  height: 95%;
-  background-color: rgba(244, 249, 250, 0.2);
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  transition: .3s ease-in-out;
-  opacity: 0;
-}
-
-#Top main .sect_6 .wrapper .container a:hover::before {
-  opacity: 1;
-}
-
 #Top main .sect_6 .wrapper .container a img {
   transition: all .3s linear;
 }
@@ -1737,6 +1720,12 @@ img[src$=".png"], img[src$=".jpg"] {
   text-align: center;
   line-height: 24px;
   font-size: 15px;
+}
+
+@media only screen and (max-width: 370px) {
+  #Top main .sect_8 .wrapper .container .row .col:last-child p {
+    font-size: 12px;
+  }
 }
 
 #Top main .sect_8 .wrapper .border_btm {

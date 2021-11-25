@@ -157,6 +157,10 @@ header .header_inner .h_right .nav_wrap .top li a {
   color: #2c2c2c;
 }
 
+header .header_inner .h_right .nav_wrap .top li a:hover {
+  color: #6a4c29;
+}
+
 header .header_inner .h_right .nav_wrap .top li a img {
   width: 19px;
   margin-right: 10px;
@@ -209,6 +213,10 @@ header .header_inner .h_right .nav_wrap .bottom li a {
   font-size: 15px;
   color: #2c2c2c;
   font-weight: 500;
+}
+
+header .header_inner .h_right .nav_wrap .bottom li a:hover {
+  color: #6a4c29;
 }
 
 @media only screen and (max-width: 1100px) {
@@ -324,6 +332,10 @@ header .header_inner .h_right .nav_wrap .bottom li .big_menu .row .col:nth-child
 header .header_inner .h_right .nav_wrap .bottom li .big_menu .row .col:nth-child(2) ul li a {
   font-size: 15px;
   color: #fff;
+}
+
+header .header_inner .h_right .nav_wrap .bottom li .big_menu .row .col:nth-child(2) ul li a:hover {
+  opacity: .7;
 }
 
 header .header_inner .h_right .nav_wrap .bottom li .big_menu .row .col:nth-child(3) {
@@ -1084,7 +1096,7 @@ img[src$=".png"], img[src$=".jpg"] {
   transform: translate(0, -50%);
 }
 
-#Top main .sect_1 .wrapper .container h3 {
+#Top main .sect_1 .wrapper .container h2 {
   font-family: heisei-kaku-gothic-std, sans-serif;
   font-weight: 700;
   font-style: normal;
@@ -1241,7 +1253,7 @@ img[src$=".png"], img[src$=".jpg"] {
   padding-top: 30px;
 }
 
-#Top main .sect_2 .wrapper .container .post-wrap .post_row:hover figure::after {
+#Top main .sect_2 .wrapper .container .post-wrap .post_row .post:hover figure::after {
   opacity: 1;
 }
 
@@ -1310,6 +1322,33 @@ img[src$=".png"], img[src$=".jpg"] {
 
 #Top main .sect_3 .wrapper .container .post_wrap.row .col:not(:first-child) {
   margin-left: 2.08%;
+}
+
+#Top main .sect_3 .wrapper .container .post_wrap.row .col .post:hover figure::after {
+  opacity: 1;
+}
+
+#Top main .sect_3 .wrapper .container .post_wrap.row .col .post_img {
+  position: relative;
+}
+
+#Top main .sect_3 .wrapper .container .post_wrap.row .col .post_img::after {
+  content: "VIEW MORE";
+  font-family: 'Jost', sans-serif;
+  font-weight: 400;
+  letter-spacing: .1em;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(221, 128, 34, 0.8);
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: .3s ease-in-out;
 }
 
 #Top main .sect_3 .wrapper .container .post_wrap.row .col .post_info--title {
@@ -1550,25 +1589,28 @@ img[src$=".png"], img[src$=".jpg"] {
   display: block;
 }
 
-#Top main .sect_6 .wrapper .container a::before {
-  content: "";
-  display: block;
-  width: 100%;
-  height: 95%;
-  background-color: rgba(244, 249, 250, 0.2);
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  transition: .3s ease-in-out;
+#Top main .sect_6 .wrapper .container a:hover .img_1_hover {
+  visibility: visible;
+}
+
+#Top main .sect_6 .wrapper .container a:hover .img_1 {
   opacity: 0;
 }
 
-#Top main .sect_6 .wrapper .container a:hover::before {
+#Top main .sect_6 .wrapper .container a .img_1 {
+  transition: .3s linear;
+  position: relative;
+  z-index: 3;
   opacity: 1;
 }
 
-#Top main .sect_6 .wrapper .container a img {
-  transition: all .3s linear;
+#Top main .sect_6 .wrapper .container a .img_1_hover {
+  transition: .3s linear;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  visibility: hidden;
 }
 
 #Top main .sect_7 .wrapper {
@@ -1595,6 +1637,33 @@ img[src$=".png"], img[src$=".jpg"] {
 
 #Top main .sect_7 .wrapper .container .post_wrap.row .col:not(:first-child) {
   margin-left: 5%;
+}
+
+#Top main .sect_7 .wrapper .container .post_wrap.row .col .post:hover figure::after {
+  opacity: 1;
+}
+
+#Top main .sect_7 .wrapper .container .post_wrap.row .col .post_img {
+  position: relative;
+}
+
+#Top main .sect_7 .wrapper .container .post_wrap.row .col .post_img::after {
+  content: "VIEW MORE";
+  font-family: 'Jost', sans-serif;
+  font-weight: 400;
+  letter-spacing: .1em;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(221, 128, 34, 0.8);
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: .3s ease-in-out;
 }
 
 #Top main .sect_7 .wrapper .container .post_wrap.row .col .post_info--title {

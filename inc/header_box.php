@@ -6,9 +6,9 @@ $str = explode('/', $url); ?>
 	<div class="h_left">
 		<?php
 			if ($str[1] == "") {
-				echo '<h1 class="logo"><a href="/"><img src="/images/common/header_logo.svg" alt=""></a></h1>';
+				echo '<h1 class="logo"><a href="/"><img src="/images/common/header_logo.svg" alt="まごころの住まいづくり新栄住宅株式会社"></a></h1>';
 			} else {
-				echo '<p class="logo"><a href="/"><img src="/images/common/header_logo.svg" alt=""></a></p>';
+				echo '<p class="logo"><a href="/"><img src="/images/common/header_logo.svg" alt="まごころの住まいづくり新栄住宅株式会社"></a></p>';
 			}
 		?>
 	</div>

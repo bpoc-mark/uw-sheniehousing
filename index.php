@@ -43,13 +43,13 @@
 						</div>
 					</div>
 					<div class="container">
-						<h3>呼吸する<br>住まい</h3>
+						<h2>呼吸する<br>住まい</h2>
 						<p>豊かで幸せに暮らせる家</p>
 					</div>
 					<div class="banner pc">
 						<a class="close"></a>
 						<a href="" class="link">
-							<img src="/images/top/sect_1/banner.jpg" alt="">
+							<img src="/images/top/sect_1/banner.jpg" alt="家を建てる前に知ってほしい、新栄住宅の | 住まい教室 | 基本情報やローンの事、構造・素材など 住まいづくりの前に知りたい情報が満載！">
 						</a>
 					</div>
 				</div>
@@ -65,7 +65,7 @@
 							<li class="post_row c-anim-up">
 								<a href="" class="post">
 									<figure>
-										<img src="/images/top/sect_2/img_1.jpg" alt="">
+										<img src="/images/top/sect_2/img_1.jpg" alt="床下エアコン体感会開催します！">
 									</figure>
 									<div class="post_info">
 										<h4 class="post_info_title">床下エアコン体感会開催します！</h4>
@@ -77,7 +77,7 @@
 							<li class="post_row c-anim-up">
 								<a href="" class="post">
 									<figure>
-										<img src="/images/top/sect_2/img_2.jpg" alt="">
+										<img src="/images/top/sect_2/img_2.jpg" alt="住まい教室・見学会">
 									</figure>
 									<div class="post_info">
 										<h4 class="post_info_title">住まい教室・見学会</h4>
@@ -89,7 +89,7 @@
 							<li class="post_row c-anim-up">
 								<a href="" class="post">
 									<figure>
-										<img src="/images/top/sect_2/img_3.jpg" alt="">
+										<img src="/images/top/sect_2/img_3.jpg" alt="住まい教室・見学会">
 									</figure>
 									<div class="post_info">
 										<h4 class="post_info_title">住まい教室・見学会</h4>
@@ -117,7 +117,7 @@
 								<a href="">
 									<div class="post">
 										<figure class="post_img">
-											<img src="/images/top/sect_3/img_1.jpg" alt="">
+											<img src="/images/top/sect_3/img_1.jpg" alt="完成見学会が終了しました。">
 										</figure>
 										<div class="post_info">
 											<h4 class="post_info--title">完成見学会が終了しました。</h4>
@@ -130,7 +130,7 @@
 								<a href="">
 									<div class="post">
 										<figure class="post_img">
-											<img src="/images/top/sect_3/img_2.jpg" alt="">
+											<img src="/images/top/sect_3/img_2.jpg" alt="完成見学会が終了しました。">
 										</figure>
 										<div class="post_info">
 											<h4 class="post_info--title">完成見学会が終了しました。</h4>
@@ -143,7 +143,7 @@
 								<a href="">
 									<div class="post">
 										<figure class="post_img">
-											<img src="/images/top/sect_3/img_3.jpg" alt="">
+											<img src="/images/top/sect_3/img_3.jpg" alt="完成見学会が終了しました。">
 										</figure>
 										<div class="post_info">
 											<h4 class="post_info--title">完成見学会が終了しました。</h4>
@@ -156,7 +156,7 @@
 								<a href="">
 									<div class="post">
 										<figure class="post_img">
-											<img src="/images/top/sect_3/img_4.jpg" alt="">
+											<img src="/images/top/sect_3/img_4.jpg" alt="完成見学会が終了しました。">
 										</figure>
 										<div class="post_info">
 											<h4 class="post_info--title">完成見学会が終了しました。</h4>
@@ -177,7 +177,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col">
-								<img src="/images/top/sect_4/img_1.jpg" class="sp c-anim-up" alt="">
+								<img src="/images/top/sect_4/img_1.jpg" class="sp c-anim-up" alt="人生が豊かで幸せであるために、安心な暮らしを創造する。">
 							</div>
 							<div class="col">
 								<div class="txt_cont">
@@ -199,7 +199,7 @@
 							</div>
 						</div>
 						<div class="img_cont pc c-anim-up">
-							<img src="/images/top/sect_4/img_1.jpg" alt="">
+							<img src="/images/top/sect_4/img_1.jpg" alt="人生が豊かで幸せであるために、安心な暮らしを創造する。">
 						</div>
 					</div>
 				</div>
@@ -224,13 +224,13 @@
 								<div class="img_cont sp">
 									<div class="row">
 										<div class="col c-anim-up">
-											<img src="/images/top/sect_5/img_1.jpg" alt="">
+											<img src="/images/top/sect_5/img_1.jpg" alt="「断熱」と「調湿」を両立した快適で 長持ちする住まいづくり。">
 										</div>
 										<div class="col c-anim-up">
-											<img src="/images/top/sect_5/img_2.jpg" alt="">
+											<img src="/images/top/sect_5/img_2.jpg" alt="「断熱」と「調湿」を両立した快適で 長持ちする住まいづくり。">
 										</div>
 										<div class="col c-anim-up">
-											<img src="/images/top/sect_5/img_3.jpg" alt="">
+											<img src="/images/top/sect_5/img_3.jpg" alt="「断熱」と「調湿」を両立した快適で 長持ちする住まいづくり。">
 										</div>
 									</div>
 								</div>
@@ -240,13 +240,13 @@
 						<div class="img_cont pc">
 							<div class="row">
 								<div class="col c-anim-up">
-									<img src="/images/top/sect_5/img_1.jpg" alt="">
+									<img src="/images/top/sect_5/img_1.jpg" alt="「断熱」と「調湿」を両立した快適で 長持ちする住まいづくり。">
 								</div>
 								<div class="col c-anim-up">
-									<img src="/images/top/sect_5/img_2.jpg" alt="">
+									<img src="/images/top/sect_5/img_2.jpg" alt="「断熱」と「調湿」を両立した快適で 長持ちする住まいづくり。">
 								</div>
 								<div class="col c-anim-up">
-									<img src="/images/top/sect_5/img_3.jpg" alt="">
+									<img src="/images/top/sect_5/img_3.jpg" alt="「断熱」と「調湿」を両立した快適で 長持ちする住まいづくり。">
 								</div>
 							</div>
 						</div>
@@ -257,11 +257,13 @@
 				<div class="wrapper">
 					<div class="container c-anim-up">
 						<a href="">
-							<picture>
-								<!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->
-								<source srcset="/images/top/sect_6/sp/img_1.png" media="(max-width: 899px)" type="image/webp">
+							<picture class="img_1">
 								<source srcset="/images/top/sect_6/img_1.png" media="(min-width: 900px)">
-								<img src="/images/top/sect_6/sp/img_1.png" alt="">
+								<img src="/images/top/sect_6/sp/img_1.png" alt="JR天竜川駅から 徒歩5分！ | 呼吸する住まいみらい | 日本の住まいの持つ美しさと 木のぬくもりの中で永く快適に暮らせる住まいを。 | SBSマイホームセンター | 浜松展示場 | 浜松市南区青谷町400 | 予約不要！| ご自由にお越し下さい | モデルハウス">
+							</picture>
+							<picture class="img_1_hover pc">
+								<source srcset="/images/top/sect_6/img_1_hover.png" media="(min-width: 900px)">
+								<img src="/images/top/sect_6/sp/img_1.png" alt="JR天竜川駅から 徒歩5分！ | 呼吸する住まいみらい | 日本の住まいの持つ美しさと 木のぬくもりの中で永く快適に暮らせる住まいを。 | SBSマイホームセンター | 浜松展示場 | 浜松市南区青谷町400 | 予約不要！| ご自由にお越し下さい | モデルハウス">
 							</picture>
 						</a>
 					</div>
@@ -279,7 +281,7 @@
 								<a href="">
 									<div class="post">
 										<figure class="post_img">
-											<img src="/images/top/sect_7/img_1.jpg" alt="">
+											<img src="/images/top/sect_7/img_1.jpg" alt="東区半田町 彩良の家">
 										</figure>
 										<div class="post_info">
 											<h4 class="post_info--title">東区半田町 彩良の家</h4>
@@ -292,7 +294,7 @@
 								<a href="">
 									<div class="post">
 										<figure class="post_img">
-											<img src="/images/top/sect_7/img_2.jpg" alt="">
+											<img src="/images/top/sect_7/img_2.jpg" alt="東区半田町 彩良の家">
 										</figure>
 										<div class="post_info">
 											<h4 class="post_info--title">南区若林町 心癒の家</h4>
@@ -305,7 +307,7 @@
 								<a href="">
 									<div class="post">
 										<figure class="post_img">
-											<img src="/images/top/sect_7/img_3.jpg" alt="">
+											<img src="/images/top/sect_7/img_3.jpg" alt="東区半田町 彩良の家">
 										</figure>
 										<div class="post_info">
 											<h4 class="post_info--title">中区高丘北 楽々の家</h4>
@@ -336,12 +338,12 @@
 			<section class="sect_8">
 				<div class="wrapper">
 					<div class="container sp c-anim-up">
-						<img src="/images/top/sect_8/banner.jpg" alt="">
+						<img src="/images/top/sect_8/banner.jpg" alt="家を建てる前に知ってほしい、新栄住宅の | 住まい教室 | 基本情報やローンの事、構造・素材など 住まいづくりの前に知りたい情報が満載！">
 					</div>
 					<div class="container">
 						<div class="row">
 							<div class="col">
-								<img src="/images/top/sect_8/img_1.png" class=" c-anim-up" alt="">
+								<img src="/images/top/sect_8/img_1.png" class=" c-anim-up" alt="新栄住宅の想いがギュッとつまったカタログをご用意しております！">
 								<p class="c-anim-up">新栄住宅の想いが<br class="sp">ギュッとつまった<br>カタログをご用意しております！</p>
 								<a href="" class="c-anim-up">
 									資料請求はこちら
