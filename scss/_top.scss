@@ -454,7 +454,7 @@
                   max-width: 350px;
                   li{
                     width: 100%;
-                    border: 1px solid #c6c6c6;
+                    border-right: 1px solid #c6c6c6;
                     a{
                       padding: 16px 0 19px;
                     }
@@ -530,7 +530,6 @@
             //   opacity: 1;
             // }
             .img_1_hover{
-              visibility: visible;
               opacity: 1;
             }
             .img_1{
@@ -538,18 +537,17 @@
             }
           }
           .img_1{
-            // transition: .1s;
+            transition: .5s ease-in-out;
             position: relative;
-            z-index: 3;
+            z-index: 2;
             opacity: 1;
           }
           .img_1_hover{
-            // transition: .1s;
+            transition: .5s ease-in-out;
             position: absolute;
             top: 0;
             left: 0;
-            z-index: 2;
-            visibility: hidden;
+            z-index: 3;
             opacity: 0;
           }
         }

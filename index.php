@@ -257,6 +257,8 @@
 				<div class="wrapper">
 					<div class="container c-anim-up">
 						<a href="">
+							<!-- <img src="/images/top/sect_6/img_1.png" class="sect_6_img pc" alt="JR天竜川駅から 徒歩5分！ | 呼吸する住まいみらい | 日本の住まいの持つ美しさと 木のぬくもりの中で永く快適に暮らせる住まいを。 | SBSマイホームセンター | 浜松展示場 | 浜松市南区青谷町400 | 予約不要！| ご自由にお越し下さい | モデルハウス">
+							<img src="/images/top/sect_6/sp/img_1.png" class="sect_6_img sp" alt="JR天竜川駅から 徒歩5分！ | 呼吸する住まいみらい | 日本の住まいの持つ美しさと 木のぬくもりの中で永く快適に暮らせる住まいを。 | SBSマイホームセンター | 浜松展示場 | 浜松市南区青谷町400 | 予約不要！| ご自由にお越し下さい | モデルハウス"> -->
 							<picture class="img_1">
 								<source srcset="/images/top/sect_6/img_1.png" media="(min-width: 900px)">
 								<img src="/images/top/sect_6/sp/img_1.png" alt="JR天竜川駅から 徒歩5分！ | 呼吸する住まいみらい | 日本の住まいの持つ美しさと 木のぬくもりの中で永く快適に暮らせる住まいを。 | SBSマイホームセンター | 浜松展示場 | 浜松市南区青谷町400 | 予約不要！| ご自由にお越し下さい | モデルハウス">
@@ -390,6 +392,21 @@
 		$('.banner a').click(function(){
 			$('.banner').hide()
 		})
+		
+		// $('.sect_6_img').hover(
+		// 	function(){
+		// 		var src = '/images/top/sect_6/img_1_hover.png';
+		// 		$(this).fadeTo(300,0.9, function() {
+		// 			$(this).attr("src",src);
+		// 		}).fadeTo(300,1);
+		// 	},
+		// 	function(){
+		// 		var src = '/images/top/sect_6/img_1.png';
+		// 		$(this).fadeTo(300,0.9, function() {
+		// 			$(this).attr("src",src);
+		// 		}).fadeTo(300,1);
+		// 	},
+		// )
 	</script>
 
 </body>

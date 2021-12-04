@@ -633,6 +633,7 @@ img[src$=".png"], img[src$=".jpg"] {
 .btn_link:hover {
   background-color: #dd7e22;
   color: #fff;
+  border: 1px solid #dd7e22;
 }
 
 .btn_link:hover .cls-1, .btn_link:hover .cls-2 {
@@ -936,13 +937,23 @@ img[src$=".png"], img[src$=".jpg"] {
   position: absolute;
   top: 0;
   right: 50px;
+  width: 95.35px;
+  height: 95.35px;
+}
+
+.post_viewmore::after {
+  content: "";
+  display: block;
   width: 81.43px;
   height: 81.43px;
-  border-radius: 50%;
   background-color: #a6845e;
-  text-align: center;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 2;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   transition: .3s ease-in-out;
-  overflow: hidden;
 }
 
 @media (max-width: 899px) {
@@ -955,12 +966,10 @@ img[src$=".png"], img[src$=".jpg"] {
 }
 
 @media (min-width: 900px) {
-  .post_viewmore:hover {
-    width: 95.35px;
-    height: 95.35px;
+  .post_viewmore:hover::after {
+    width: 100%;
+    height: 100%;
     background-color: #8e693f;
-    top: -8px !important;
-    right: 44px !important;
   }
 }
 
@@ -970,6 +979,9 @@ img[src$=".png"], img[src$=".jpg"] {
   font-weight: 400;
   font-size: 13px;
   line-height: 15.6px;
+  text-align: center;
+  position: relative;
+  z-index: 3;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -983,7 +995,6 @@ img[src$=".png"], img[src$=".jpg"] {
 .list_btn {
   display: flex;
   flex-wrap: wrap;
-  border: 1px solid #c6c6c6;
 }
 
 .list_btn li {
@@ -992,14 +1003,14 @@ img[src$=".png"], img[src$=".jpg"] {
   text-align: center;
 }
 
-.list_btn li:first-child {
-  border-right: 1px solid #c6c6c6;
+.list_btn li:first-child a {
+  border-right: none;
 }
 
 @media (max-width: 899px) {
-  .list_btn li:first-child {
-    border-right: none;
-    border-bottom: 1px solid #c6c6c6;
+  .list_btn li:first-child a {
+    border-right: 1px solid #c6c6c6;
+    border-bottom: none;
   }
 }
 
@@ -1010,6 +1021,7 @@ img[src$=".png"], img[src$=".jpg"] {
 }
 
 .list_btn li a {
+  border: 1px solid #c6c6c6;
   display: block;
   width: 100%;
   font-weight: 700;
@@ -1549,7 +1561,7 @@ img[src$=".png"], img[src$=".jpg"] {
 
 #Top main .sect_5 .wrapper .container .row .col:first-child .txt_cont .list_btn li {
   width: 100%;
-  border: 1px solid #c6c6c6;
+  border-right: 1px solid #c6c6c6;
 }
 
 #Top main .sect_5 .wrapper .container .row .col:first-child .txt_cont .list_btn li a {
@@ -1614,7 +1626,6 @@ img[src$=".png"], img[src$=".jpg"] {
 }
 
 #Top main .sect_6 .wrapper .container a:hover .img_1_hover {
-  visibility: visible;
   opacity: 1;
 }
 
@@ -1623,17 +1634,18 @@ img[src$=".png"], img[src$=".jpg"] {
 }
 
 #Top main .sect_6 .wrapper .container a .img_1 {
+  transition: .5s ease-in-out;
   position: relative;
-  z-index: 3;
+  z-index: 2;
   opacity: 1;
 }
 
 #Top main .sect_6 .wrapper .container a .img_1_hover {
+  transition: .5s ease-in-out;
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 2;
-  visibility: hidden;
+  z-index: 3;
   opacity: 0;
 }
 
