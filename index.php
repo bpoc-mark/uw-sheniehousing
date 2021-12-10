@@ -31,11 +31,8 @@
 		<main>
 			<section class="sect_1">
 				<div class="wrapper">
-					<!-- Slider main container -->
 					<div class="swiper sect1_swiper">
-						<!-- Additional required wrapper -->
 						<div class="swiper-wrapper">
-							<!-- Slides -->
 							<div class="swiper-slide slide-img-1"></div>
 							<div class="swiper-slide slide-img-2"></div>
 							<div class="swiper-slide slide-img-3"></div>
@@ -257,8 +254,6 @@
 				<div class="wrapper">
 					<div class="container c-anim-up">
 						<a href="">
-							<!-- <img src="/images/top/sect_6/img_1.png" class="sect_6_img pc" alt="JR天竜川駅から 徒歩5分！ | 呼吸する住まいみらい | 日本の住まいの持つ美しさと 木のぬくもりの中で永く快適に暮らせる住まいを。 | SBSマイホームセンター | 浜松展示場 | 浜松市南区青谷町400 | 予約不要！| ご自由にお越し下さい | モデルハウス">
-							<img src="/images/top/sect_6/sp/img_1.png" class="sect_6_img sp" alt="JR天竜川駅から 徒歩5分！ | 呼吸する住まいみらい | 日本の住まいの持つ美しさと 木のぬくもりの中で永く快適に暮らせる住まいを。 | SBSマイホームセンター | 浜松展示場 | 浜松市南区青谷町400 | 予約不要！| ご自由にお越し下さい | モデルハウス"> -->
 							<picture class="img_1">
 								<source srcset="/images/top/sect_6/img_1.png" media="(min-width: 900px)">
 								<img src="/images/top/sect_6/sp/img_1.png" alt="JR天竜川駅から 徒歩5分！ | 呼吸する住まいみらい | 日本の住まいの持つ美しさと 木のぬくもりの中で永く快適に暮らせる住まいを。 | SBSマイホームセンター | 浜松展示場 | 浜松市南区青谷町400 | 予約不要！| ご自由にお越し下さい | モデルハウス">
@@ -324,7 +319,7 @@
 						</div>
 						<ul class="list_btn c-anim-up">
 							<li>
-								<a href="" class="btn_link">ごあいさつ・会社概要
+								<a href="" class="btn_link">会社案内
 									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg>
 								</a>
 							</li>
@@ -392,21 +387,6 @@
 		$('.banner a').click(function(){
 			$('.banner').hide()
 		})
-		
-		// $('.sect_6_img').hover(
-		// 	function(){
-		// 		var src = '/images/top/sect_6/img_1_hover.png';
-		// 		$(this).fadeTo(300,0.9, function() {
-		// 			$(this).attr("src",src);
-		// 		}).fadeTo(300,1);
-		// 	},
-		// 	function(){
-		// 		var src = '/images/top/sect_6/img_1.png';
-		// 		$(this).fadeTo(300,0.9, function() {
-		// 			$(this).attr("src",src);
-		// 		}).fadeTo(300,1);
-		// 	},
-		// )
 	</script>
 
 </body>
