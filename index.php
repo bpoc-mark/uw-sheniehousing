@@ -40,8 +40,7 @@
 						</div>
 					</div>
 					<div class="container">
-						<h2>呼吸する<br>住まい</h2>
-						<p>豊かで幸せに暮らせる家</p>
+						<h2><img src="/images/top/sect_1/hero_txt_img.svg" alt="呼吸する住まい | 豊かで幸せに暮らせる家"></h2>
 					</div>
 					<div class="banner pc">
 						<a class="close"></a>
@@ -171,79 +170,60 @@
 			</section>
 			<section class="sect_4">
 				<div class="wrapper">
-					<div class="container">
-						<div class="row">
-							<div class="col">
-								<img src="/images/top/sect_4/img_1.jpg" class="sp c-anim-up" alt="人生が豊かで幸せであるために、安心な暮らしを創造する。">
-							</div>
-							<div class="col">
-								<div class="txt_cont">
-									<h3 class="c-anim-up">人生が豊かで<br class="sp">幸せであるために、<br>安心な暮らしを創造する。</h3>
-									<p class="c-anim-up">家づくりとは「家」を購入することではありません。豊かで幸せな暮らしを叶えてくれる住宅会社への「信頼」を購入することです。<br>新栄住宅な、半世紀に及ぶ豊富な経験で培った設計力と技術力、そして自然素材の力を駆使し、お客様からの「信頼」に期待以上の仕上がりでお応えします。</p>
-									<ul class="list_btn c-anim-up">
-										<li>
-											<a href="" class="btn_link">新栄住宅の<br class="pc">コンセプト
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg>
-										</a>
-										</li>
-										<li>
-											<a href="" class="btn_link">住まいを作る<br class="pc">7つの要素
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg>
-										</a>
-										</li>
-									</ul>
-								</div>
-							</div>
+					<div class="row">
+						<div class="col">
+							<img src="/images/top/sect_4/img_1.jpg" class="c-anim-up" alt="人生が豊かで幸せであるために、安心な暮らしを創造する。">
 						</div>
-						<div class="img_cont pc c-anim-up">
-							<img src="/images/top/sect_4/img_1.jpg" alt="人生が豊かで幸せであるために、安心な暮らしを創造する。">
+						<div class="col">
+							<div class="txt_cont">
+								<h3 class="c-anim-up">人生が豊かで<br class="sp">幸せであるために、<br>安心な暮らしを創造する。</h3>
+								<p class="c-anim-up">家づくりとは「家」を購入することではありません。豊かで幸せな暮らしを叶えてくれる住宅会社への「信頼」を購入することです。<br>新栄住宅な、半世紀に及ぶ豊富な経験で培った設計力と技術力、そして自然素材の力を駆使し、お客様からの「信頼」に期待以上の仕上がりでお応えします。</p>
+								<ul class="list_btn c-anim-up">
+									<li>
+										<a href="" class="btn_link">新栄住宅の<br class="pc">コンセプト
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg>
+									</a>
+									</li>
+									<li>
+										<a href="" class="btn_link">住まいを作る<br class="pc">7つの要素
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg>
+									</a>
+									</li>
+								</ul>
+							</div>
 						</div>
 					</div>
 				</div>
 			</section>
 			<section class="sect_5">
 				<div class="wrapper">
-					<div class="container">
-						<div class="row">
-							<div class="col">
-								<div class="txt_cont">
-									<h3 class="c-anim-up">呼吸する<br>住まい</h3>
-									<h4 class="c-anim-up">「断熱」と「調湿」を両立した快適で<br>長持ちする住まいづくり。</h4>
-									<p class="c-anim-up">あなたはどんな家に住みたいですか？デザイン、構造、間取り、収納など、どれも重要な要素ですが新栄住宅が最もこだわって提案しているのが「断熱」と「調湿」の両立を可能にした“呼吸する住まい”です。</p>
-									<ul class="list_btn c-anim-up">
-										<li>
-											<a href="" class="btn_link">呼吸する住まいとは？
-												<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg>
-											</a>
-										</li>
-									</ul>
-								</div>
-								<div class="img_cont sp">
-									<div class="row">
-										<div class="col c-anim-up">
-											<img src="/images/top/sect_5/img_1.jpg" alt="「断熱」と「調湿」を両立した快適で 長持ちする住まいづくり。">
-										</div>
-										<div class="col c-anim-up">
-											<img src="/images/top/sect_5/img_2.jpg" alt="「断熱」と「調湿」を両立した快適で 長持ちする住まいづくり。">
-										</div>
-										<div class="col c-anim-up">
-											<img src="/images/top/sect_5/img_3.jpg" alt="「断熱」と「調湿」を両立した快適で 長持ちする住まいづくり。">
-										</div>
-									</div>
-								</div>
+					<div class="row">
+						<div class="col">
+							<div class="txt_cont">
+								<h3 class="c-anim-up">呼吸する<br>住まい</h3>
+								<h4 class="c-anim-up">「断熱」と「調湿」を両立した快適で<br>長持ちする住まいづくり。</h4>
+								<p class="c-anim-up">あなたはどんな家に住みたいですか？デザイン、構造、間取り、収納など、どれも重要な要素ですが新栄住宅が最もこだわって提案しているのが「断熱」と「調湿」の両立を可能にした“呼吸する住まい”です。</p>
+								<ul class="list_btn c-anim-up">
+									<li>
+										<a href="" class="btn_link">呼吸する住まいとは？
+											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.35 10.08"><defs><style>.cls-1{fill:none;stroke-width:1.23px;}.cls-1,.cls-2{stroke:#dd7e22;stroke-linecap:round;stroke-linejoin:round;}.cls-2{fill:#dd7e22;stroke-width:0.87px;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="レイヤー_1" data-name="レイヤー 1"><line class="cls-1" x1="0.61" y1="5.04" x2="10.14" y2="5.04"/><polygon class="cls-2" points="16.91 5.04 10.6 0.44 10.6 9.64 16.91 5.04"/></g></g></svg>
+										</a>
+									</li>
+								</ul>
 							</div>
-							<div class="col"></div>
 						</div>
-						<div class="img_cont pc">
-							<div class="row">
-								<div class="col c-anim-up">
-									<img src="/images/top/sect_5/img_1.jpg" alt="「断熱」と「調湿」を両立した快適で 長持ちする住まいづくり。">
-								</div>
-								<div class="col c-anim-up">
-									<img src="/images/top/sect_5/img_2.jpg" alt="「断熱」と「調湿」を両立した快適で 長持ちする住まいづくり。">
-								</div>
-								<div class="col c-anim-up">
-									<img src="/images/top/sect_5/img_3.jpg" alt="「断熱」と「調湿」を両立した快適で 長持ちする住まいづくり。">
+						<div class="col">
+							<div class="img_cont">
+								<div class="row">
+									<div class="col c-anim-up">
+										<img src="/images/top/sect_5/img_1.jpg" alt="「断熱」と「調湿」を両立した快適で 長持ちする住まいづくり。">
+									</div>
+									<div class="col c-anim-up">
+										<img src="/images/top/sect_5/img_2.jpg" alt="「断熱」と「調湿」を両立した快適で 長持ちする住まいづくり。">
+									</div>
+									<div class="col c-anim-up">
+										<img src="/images/top/sect_5/img_3.jpg" alt="「断熱」と「調湿」を両立した快適で 長持ちする住まいづくり。">
+									</div>
 								</div>
 							</div>
 						</div>

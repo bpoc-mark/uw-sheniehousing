@@ -52,13 +52,6 @@ $font-color: #444444;
   font-weight: $weight;
 }
 
-// medium @include Heisei Kaku Gothic Std W7(500);
-@mixin Heisei_Kaku($weight: 700) {
-  font-family: heisei-kaku-gothic-std, sans-serif;
-  font-weight: $weight;
-  font-style: normal;
-}
-
 // sassで「@include arrow(#fff)」など。カラーコードは変更可能。
 @mixin arrow($color: #000) {
   border-top: 1px solid $color;

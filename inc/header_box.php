@@ -55,7 +55,7 @@ $str = explode('/', $url); ?>
 										<a href="">コンセプト</a>
 									</li>
 									<li>
-										<a href="">ごあいさつ・会社概要</a>
+										<a href="">会社案内</a>
 									</li>
 									<li>
 										<a href="">住まいを作る7つの要素</a>
